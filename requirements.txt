@@ -1,0 +1,5 @@
+streamlit
+qiskit
+numpy
+opencv-python-headless
+matplotlib
